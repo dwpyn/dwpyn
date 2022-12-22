@@ -1,7 +1,4 @@
-Halo 👋, I am @dwpyn, i am highly interested in things related in **data analysis** and **machine learning**,
+hai there 👋, @dwpyn here, i am highly interested in web development and CompSci in general,
 
-currently i am persuing learning real-time machine learning.
-
-Here where i put all my works and portofolios ⬇️.
-
-Reach me from my Instagram @dwpynimd.
+currently i am persuing learning frontend development espesially React.
+Here i put all my works and portofolios ⬇️.
